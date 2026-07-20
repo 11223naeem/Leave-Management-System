@@ -36,7 +36,7 @@ A complete **Leave Management System** built using **Spring Boot + Thymeleaf + M
 ![Apply Leave](images/apply-leave.png)
 
 ### 🔹 User Login
-![Admin Login](images/User-login.png)
+![User Login](images/User-login.png)
 
 ### 🔹 User Dashboard
 ![Dashboard](images/dashboard.png)
